@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have
+I'm a first-semester Computer Science student at Cesupa/Brazil with a strong interest in programming, gaming and data.
+
+My name is Eric, and I currently work as a developer, building and maintaining web applications using Oracle APEX, which relies on SQL and PL/SQL as backend technologies.
+
+I hold a bachelor’s degree in Civil Engineering (ITA/Brazil), as well as a master’s (UFPA/Brazil) and a Ph.D. (ITA/Brazil) in Computational Mechanics. My academic background provided me with a strong foundation in mathematics, numerical methods, and analytical problem-solving.
+
+My personal goal on this first semester is to acquire foundational knowledge in algorithms and programming.

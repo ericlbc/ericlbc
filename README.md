@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="justify">
-I'm a first-semester Computer Science student at <a href="https://www.cesupa.br" target="_blank">Cesupa</a> with a strong interest in programming, game development and data science.
+I'm a first-semester Computer Science student at Cesupa with a strong interest in programming, game development and data science.
 </p>
 <p align="justify">
 My name is Eric, and I currently work remotely as a developer at the <a href="https://portal.tcu.gov.br" target="_blank">Tribunal de Contas da União</a>, where I build and maintain web applications using <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D6C81C88572EF51EF31C223D53434E9BD219A36F676D3E472F8BC58D71FDF76B" target="_blank">Oracle APEX</a>, leveraging <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=72BD2A2849B83EB939F9C9EE1D773C04BCC427E3D3B3257F703B719E39882308" target="_blank">SQL</a> and PL/SQL as backend technologies. I hold the position of Federal External Control Auditor, and my work is focused on systems development.

@@ -24,7 +24,7 @@ My name is Eric, and I currently work remotely as a developer at the <a href="ht
 I hold a <a href="https://www.civil.ita.br/graduacao/egresso/egresso.php?Class=2004" target="_blank">bachelor’s degree</a> in Aeronautical Infrastructure Engineering from ITA, as well as a <a href="https://ppgec.propesp.ufpa.br/index.php/br/teses-e-dissertacoes/dissertacoes/50-2010" target="_blank">master’s degree</a> from UFPA and a <a href="https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/trabalhoConclusao/viewTrabalhoConclusao.jsf?popup=true&id_trabalho=5868882" target="_blank">Ph.D.</a> from ITA, both in the field of Computational Mechanics. My <a href="http://lattes.cnpq.br/4588925736473793" target="_blank">academic background</a> provided me with a strong foundation in mathematics, numerical methods, and analytical problem-solving.
 </p>
 <p align="justify">
-I also have achieved C1-level English (Effective Operational Proficiency) as certified by IELTS.
+I have also achieved C1-level English (Effective Operational Proficiency) as certified by IELTS.
 </p>
 <p align="justify">
 My personal goal on this first semester is to acquire foundational knowledge in algorithms and programming.

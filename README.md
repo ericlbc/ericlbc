@@ -26,6 +26,3 @@ I hold a <a href="https://www.civil.ita.br/graduacao/egresso/egresso.php?Class=2
 <p align="justify">
 I have also achieved C1-level English (Effective Operational Proficiency) as certified by IELTS.
 </p>
-<p align="justify">
-My goal for this second semester is to strengthen my software development skills by deepening my knowledge of object-oriented programming and web development.
-</p>
